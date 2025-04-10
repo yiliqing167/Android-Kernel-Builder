@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
       "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "repo": "https://github.com/Blackmanx/kernel_realme_sm8250",
+      "branch": "bigshot",
+      "device": "kona-perf"
     },
     "withKernelSU": true,
     "toolchains": [
